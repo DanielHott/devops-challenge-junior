@@ -17,9 +17,9 @@ Fiz os ajustes necessários para o código do plugin funcionar, que consistia em
 
 #### Url
 
-```bash
+
 http://44.208.179.22/wp-login.php
-```
+
 
 #### Usuário
 
